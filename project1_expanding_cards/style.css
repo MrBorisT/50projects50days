@@ -27,7 +27,7 @@ body {
   height: 80vh;
   border-radius: 50px;
   color: #fff;
-  curson: pointer;
+  cursor: pointer;
   flex: 0.5;
   margin: 10px;
   position: relative;
